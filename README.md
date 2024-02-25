@@ -1,4 +1,4 @@
-```markdown
+
 # Real-Time Face Detection using OpenCV
 
 This project demonstrates real-time face detection using OpenCV, a popular computer vision library in Python.
